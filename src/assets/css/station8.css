@@ -1,0 +1,43 @@
+header{
+    background-color: #ffffff;
+    width: 1440px;
+    height: 64px;
+}
+
+body{
+    background-color:#ffffff ;
+}
+
+main{
+    display: flex;
+}
+
+footer{
+    background-color: #ffffff;
+    width: 1440px;
+    height: 64px;
+}
+
+.card { 
+    background-color: #ffffff; 
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card__title{
+    color : #282828;
+    size: 14px;
+}
+
+.card__description{
+    color : #282828;
+    size: 12px
+}
+
+.card__img-top{
+    height: 182px;
+    width: 288px;
+    margin-bottom: 8px;
+}
